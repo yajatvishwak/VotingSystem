@@ -1,0 +1,64 @@
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.exe
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.pdb
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.xml
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_login_page.resources
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Voting.resources
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.vbproj.GenerateResource.Cache
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.exe
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.xml
+C:\Users\yajat cool\Documents\Visual Studio 2010\Projects\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.pdb
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.exe.config
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.exe
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.pdb
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.xml
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Admin_Students.resources
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Change_Password.resources
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_login_page.resources
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Nominiees_Admin.resources
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Report.resources
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Voting.resources
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Welcome.resources
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.vbproj.GenerateResource.Cache
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.exe
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.xml
+D:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.pdb
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.exe.config
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.exe
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.xml
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.pdb
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.exe
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.pdb
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.xml
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.vbprojResolveAssemblyReference.cache
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.Resources.resources
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Admin_Students.resources
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Change_Password.resources
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_login_page.resources
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Nominiees_Admin.resources
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Report.resources
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Voting.resources
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Welcome.resources
+Z:\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.vbproj.GenerateResource.Cache
+H:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.exe.config
+H:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.exe
+H:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.xml
+H:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.pdb
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.exe.config
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.exe
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.xml
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.pdb
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.exe
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.pdb
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\bin\Release\SP_Voting_Project.xml
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.Resources.resources
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Admin_Students.resources
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Change_Password.resources
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_login_page.resources
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Nominiees_Admin.resources
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Report.resources
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Voting.resources
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\WindowsApplication1.SP_Welcome.resources
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.vbproj.GenerateResource.Cache
+E:\Voting\Voting\SP_Voting_Project\SP_Voting_Project\obj\x86\Release\SP_Voting_Project.vbprojResolveAssemblyReference.cache

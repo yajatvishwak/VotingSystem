@@ -1,0 +1,43 @@
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.SP_Admin_Students.resources
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.SP_Nominiees_Admin.resources
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.Welcome.resources
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.Resources.resources
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.vbproj.GenerateResource.Cache
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.exe
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.pdb
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.xml
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.exe
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.xml
+C:\Users\Yajat\documents\visual studio 2010\Projects\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.pdb
+D:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.exe
+D:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.xml
+D:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.pdb
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.exe
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.xml
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.pdb
+F:\Voting\Voting\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.exe
+F:\Voting\Voting\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.pdb
+F:\Voting\Voting\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.xml
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.SP_Admin_Students.resources
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.SP_Nominiees_Admin.resources
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.Welcome.resources
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.Resources.resources
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.exe
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.xml
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.pdb
+I:\Voting\Voting\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.exe
+I:\Voting\Voting\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.pdb
+I:\Voting\Voting\SP_Admin1\SP_Admin1\bin\Debug\SP_Admin1.xml
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.SP_Admin_Students.resources
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.SP_Nominiees_Admin.resources
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.Welcome.resources
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin.Resources.resources
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.exe
+G:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.xml
+G:\Voting\Voting\SP_Admin1\SP_Admin1\obj\x86\Debug\SP_Admin1.pdb
